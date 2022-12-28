@@ -1,4 +1,4 @@
-# Powered By @BikashHalder @AdityaHalder
+# Powered By @mastijunction
 
 import os
 import re
@@ -61,7 +61,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 ### Do Not Touch Or Edit Codes After This Line
 ############################
 COMMAND_PREFIXES.append('')
-OWNER_ID.append(1439222689)
+OWNER_ID.append(5936947768)
 ############################
 adminlist = {}
 lyrical = {}
@@ -73,12 +73,12 @@ autoclean = []
 LOG = 2
 YTDOWNLOADER = 1
 BANNED_USERS = filters.user()
-LOG_FILE_NAME = "bikashlogs.txt"
+LOG_FILE_NAME = "pugmusic.txt"
 ############################
 
 
-# All Images Of Bikash Aditya Player // @BIKASHHALDER @AdityaHalder
-START_IMG_URL = getenv("START_IMG_URL", f"https://te.legra.ph/file/99d0261f0aa5512ad6753.jpg")
+# All Images Of Pug Music Player // @PUGMUSICPLAYER
+START_IMG_URL = getenv("START_IMG_URL", f"https://te.legra.ph/PUGmusic-12-28 ")
 PING_IMG_URL = getenv("PING_IMG_URL", "resource/ping.jpeg")
 PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "resource/playlist.jpeg")
 GLOBAL_IMG_URL = getenv("GLOBAL_IMG_URL", "resource/global.jpeg")
